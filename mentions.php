@@ -2,14 +2,14 @@
 <html lang="fr">
 
 <head>
-    <title>Ponpoms et Coussinets</title>
+    <title>Gardiennage d'animaux, Pet sitter, Pet sitting</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Gardiennage d'animaux, pet-sitter, pet-sitting.">
     <meta name="author" content="Tommy Jeanbille, Celine Levrechon">
     <link href="css/style.css" rel="stylesheet">
-    <!-- Librairie JQuery pour requete AJAX-->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!-- Librairie JQuery pour requete AJAX
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>-->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css"
         integrity="sha384-3AB7yXWz4OeoZcPbieVW64vVXEwADiYyAEhwilzWsLw+9FgqpyjjStpPnpBO8o8S" crossorigin="anonymous">
     <script src="https://kit.fontawesome.com/b0f7e6ecb6.js" crossorigin="anonymous"></script>
@@ -34,23 +34,21 @@
             <div class="grand-titre-right"></div>-->
         </div>
 
-        <img class="img-decoration-dog1" src="img/dog1.svg" alt="...">
-        <img class="img-decoration-cat2"  src="img/Gat3.svg" alt="...">
+        <img class="img-decoration-dog1" src="img/dog1.svg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
+        <img class="img-decoration-cat2"  src="img/Gat3.svg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
 
 
 <p class="text-colorization p-increased">1 – Édition du site</p>
 <p>En vertu de l’article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l’économie numérique, il est précisé aux utilisateurs du site internet https://www.pomponsetcoussinets.fr l’identité des différents intervenants dans le cadre de sa réalisation et de son suivi:</p>
 
-<p>Propriétaire du site : Celine Levrechon <br/>
-Contact : contact@pomponetcoussinets.fr <br/>
-Adresse : 25 chemin du Mongambe, Aingeray<br/>
-Identification de l’entreprise : Celine Levrechon au capital social de € 
-SIRET : 91789930400013 <br/>
-RM : 54 <br/>
-Adresse postale : 25 chemin du Mongambe, Aingeray<br/>
-Directeur de la publication : Celine Levrechon <br/>
-Contact : contact@pomponetcoussinets.fr<br/>
-Hébergeur : Hostinger.com<br/>
+<p class="text-colorization">Propriétaire du site : Celine Levrechon <br/>
+Contact : contact@pomponsetcoussinets.fr <br/>
+Adresse : 25 chemin du Mongambe, Aingeray 54460<br/><br/>
+Identification de l’entreprise : Céline Levrechon Entreprise Individuelle
+n°SIRET : 91789930400013 <br/>
+RM : 917 899 304 RM 54 <br/>
+Contact : contact@pomponsetcoussinets.fr<br/><br/>
+Hébergeur : Hostinger.com<br/><br/>
 Délégué à la protection des données : Tommy JEANBILLE – Tommy.jeanbille@gmail.com<br/>
 Autres contributeurs : Crédits photos Celine Levrechon
 </p>
@@ -73,15 +71,13 @@ Celine Levrechon se réserve également la possibilité de mettre en cause la re
 <p class="text-colorization p-increased">4 – CNIL et gestion des données personnelles.</p>
 <p>Conformément aux dispositions de la loi 78-17 du 6 janvier 1978 modifiée, l’utilisateur du site https://www.pomponsetcoussinets.fr dispose d’un droit d’accès, de modification et de suppression des informations collectées. <br/>
 Pour exercer ce droit, envoyez un message à notre Délégué à la Protection des Données : Tommy JEANBILLE - Tommy.jeanbille@gmail.com<br/>
-Pour plus d’informations sur la façon dont nous traitons vos données (type de données, finalité, destinataire…), lisez notre Politique de confidentialité.<br/>
 </p>
 
 <p class="text-colorization p-increased">5 – Liens hypertextes et cookies</p>
 <p>Le site https://www.pomponsetcoussinets.fr contient des liens hypertextes vers d’autres sites et dégage toute responsabilité à propos de ces liens externes ou des liens créés par d’autres sites vers https://www.pomponsetcoussinets.fr<br/>
-Aucun cookie et aucune session est utilisée lors de la connexion et l'utilisation du site https://www.pomponsetcoussinets.fr<br/>
-Un « cookie » est un fichier de petite taille qui enregistre des informations relatives à la navigation d’un utilisateur sur un site. Les données ainsi obtenues permettent d’obtenir des mesures de fréquentation, par exemple.<br/>
+Aucun cookie et aucune session ne sont utilisés lors de la connexion et l'utilisation du site https://www.pomponsetcoussinets.fr<br/>
+Un « cookie » est un fichier stockée sur votre ordinateur qui sauvegarde des informations (variables) relatives à la navigation d’un utilisateur sur un site.<br/>
 Vous avez la possibilité d’accepter ou de refuser les cookies en modifiant les paramètres de votre navigateur. Aucun cookie ne sera déposé sans votre consentement.<br/>
-Pour plus d’informations sur la façon dont nous faisons usage des cookies, lisez notre Politique de confidentialité.<br/>
 </p>
 <p class="text-colorization p-increased">6 – Droit applicable et attribution de juridiction.</p>
 <p>Tout litige en relation avec l’utilisation du site https://www.pomponsetcoussinets.fr est soumis au droit français. En dehors des cas où la loi ne le permet pas, il est fait attribution exclusive de juridiction aux tribunaux compétents de Nancy.</p><br/>

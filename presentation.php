@@ -2,14 +2,14 @@
 <html lang="fr">
 
 <head>
-    <title>Ponpoms et Coussinets</title>
+<title>Gardiennage d'animaux, Pet sitter, Pet sitting pour Chien, Chat, Lapin à Nancy et Liverdun </title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Gardiennage d'animaux, pet-sitter, pet-sitting.">
     <meta name="author" content="Tommy Jeanbille, Celine Levrechon">
     <link href="css/style.css" rel="stylesheet">
-    <!-- Librairie JQuery pour requete AJAX-->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!-- Librairie JQuery pour requete AJAX
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>-->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css"
         integrity="sha384-3AB7yXWz4OeoZcPbieVW64vVXEwADiYyAEhwilzWsLw+9FgqpyjjStpPnpBO8o8S" crossorigin="anonymous">
     <script src="https://kit.fontawesome.com/b0f7e6ecb6.js" crossorigin="anonymous"></script>
@@ -34,8 +34,8 @@
             <div class="grand-titre-right"></div>-->
         </div>
 
-        <img class="img-decoration-cat1" src="img/gat4.svg" alt="...">
-        <img class="img-decoration-cat2"  src="img/Gat3.svg" alt="...">
+        <img class="img-decoration-cat1" src="img/gat4.svg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
+        <img class="img-decoration-cat2"  src="img/Gat3.svg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
 
         <div class="gp-accueil-section">
             <div style="flex:2;min-width:250px;">
@@ -48,7 +48,7 @@
 
             </div>
             <div>
-                <img src="img/presentation1.jpg" alt="...">
+                <img src="img/presentation1.jpg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
             </div>
         </div>
 
@@ -59,7 +59,7 @@
         </div>
         <div class="gp-choix-section">
             <div>
-                <img src="img/garde-animaux.jpg" alt="...">
+                <img src="img/garde-animaux.jpg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
             </div>
 
             <div style="flex:3;min-width:250px;">

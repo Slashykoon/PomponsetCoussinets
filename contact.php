@@ -2,7 +2,7 @@
 <html lang="fr">
 
 <head>
-    <title>Ponpoms et Coussinets</title>
+<title>Gardiennage d'animaux, Pet sitter, Pet sitting pour Chien, Chat, Lapin à Nancy et Liverdun </title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Gardiennage d'animaux, pet-sitter, pet-sitting.">
@@ -43,8 +43,8 @@
             <div class="grand-titre-right"></div>-->
         </div>
 
-        <img class="img-decoration-dog2" src="img/dog2.svg" alt="...">
-        <img class="img-decoration-cat4" src="img/Kitten-Silhouette-2.svg" alt="...">
+        <img class="img-decoration-dog2" src="img/dog2.svg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
+        <img class="img-decoration-cat4" src="img/Kitten-Silhouette-2.svg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
 
 
         <p>Des frais additionnels sont appliqués lors de déplacement hors de mon rayon d'action (en bleu)</p>

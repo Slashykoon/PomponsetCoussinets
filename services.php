@@ -2,14 +2,14 @@
 <html lang="fr">
 
 <head>
-    <title>Ponpoms et Coussinets</title>
+    <title>Gardiennage d'animaux, Pet sitter, Pet sitting pour Chien, Chat, Lapin à Nancy et Liverdun </title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Gardiennage d'animaux, pet-sitter, pet-sitting.">
     <meta name="author" content="Tommy Jeanbille, Celine Levrechon">
     <link href="css/style.css" rel="stylesheet">
-    <!-- Librairie JQuery pour requete AJAX-->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!-- Librairie JQuery pour requete AJAX
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>-->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css"
         integrity="sha384-3AB7yXWz4OeoZcPbieVW64vVXEwADiYyAEhwilzWsLw+9FgqpyjjStpPnpBO8o8S" crossorigin="anonymous">
     <script src="https://kit.fontawesome.com/b0f7e6ecb6.js" crossorigin="anonymous"></script>
@@ -33,15 +33,12 @@
             <!--<div class="grand-titre-left"></div>
             <div class="grand-titre-right"></div>-->
         </div>
-        <img class="img-decoration-cat3" src="img/Cat5.svg" alt="...">
+        <img class="img-decoration-cat3" src="img/Cat5.svg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
 
-        <img class="img-decoration-rabbit1" src="img/rabbit.svg" alt="...">
+        <img class="img-decoration-rabbit1" src="img/rabbit.svg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
 
         <p><span class="p-increased text-colorization">Pré-visite obligatoire*</span> : visite du lieu de vie de l’animal, rencontre avec l’animal, consignes spécifiques pour la garde ou la promenade, remise des clés : 6€</p>
         <p>*pour les promenades chiens, non-obligatoire si le maître est présent.</p>
-
-
-
 
         <div class="gp-services-section">
             <div class="card-service">
@@ -122,13 +119,14 @@
             <!--<div class="grand-titre-left"></div>
             <div class="grand-titre-right"></div>-->
         </div>
-
-            <p><i class="fas fa-house-user"></i> Relevé du courrier, aération du logement et arrosage des plantes : +1€ / visite</p>
-            <p><i class="fas fa-calendar-alt"></i> Majoration jour férié : +5€</p>
-            <p><i class="fas fa-money-check"></i> Moyens de paiement acceptés : Chèques, Espèces</p>
-            <p><i class="fas fa-paw"></i> Si plusieurs animaux : me contacter pour devis</p>
+        <div style="">
+            <p><i class="fas fa-house-user fa-lg" style="padding-right:10px;"></i> Relevé du courrier, aération du logement et arrosage des plantes : gratuit sur demande</p>
+            <p><i class="fas fa-calendar-alt fa-lg" style="padding-right:10px;"></i> Majoration jour férié : +5€</p>
+            <p><i class="fas fa-money-check fa-lg" style="padding-right:10px;"></i> Moyens de paiement acceptés : Chèques, Espèces</p>
+            <p><i class="fas fa-paw fa-lg" style="padding-right:10px;"></i> Si plusieurs animaux : Pas de supplément pour 2 animaux dans le même foyer. Pour plus de 2 animaux, me contacter pour devis</p>
+            <p><i class="fas fa-car fa-lg" style="padding-right:10px;"></i> Frais kilométriques : Pas de frais pour <a class="text-colorization" href='contact.php'>les communes dans ma zone d’activité</a>. Pour les autres communes au-delà, frais kilométriques en plus.</p>
             <br/>
-</div>
+        </div>
     </div>
 
 </body>

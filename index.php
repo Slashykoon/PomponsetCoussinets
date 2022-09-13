@@ -2,14 +2,14 @@
 <html lang="fr">
 
 <head>
-    <title>Ponpoms et Coussinets</title>
+<title>Gardiennage d'animaux, Pet sitter, Pet sitting pour Chien, Chat, Lapin à Nancy et Liverdun </title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Gardiennage d'animaux, pet-sitter, pet-sitting.">
     <meta name="author" content="Tommy Jeanbille, Celine Levrechon">
     <link href="css/style.css" rel="stylesheet">
-    <!-- Librairie JQuery pour requete AJAX-->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!-- Librairie JQuery pour requete AJAX
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>-->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css"
         integrity="sha384-3AB7yXWz4OeoZcPbieVW64vVXEwADiYyAEhwilzWsLw+9FgqpyjjStpPnpBO8o8S" crossorigin="anonymous">
     <script src="https://kit.fontawesome.com/b0f7e6ecb6.js" crossorigin="anonymous"></script>
@@ -36,8 +36,8 @@
             <div class="grand-titre-right"></div>-->
         </div>
 
-        <img class="img-decoration-dog1" src="img/dog1.svg" alt="...">
-        <img class="img-decoration-cat2"  src="img/Gat3.svg" alt="...">
+        <img class="img-decoration-dog1" src="img/dog1.svg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
+        <img class="img-decoration-cat2"  src="img/Gat3.svg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
 
         <div class="gp-accueil-section">
             <div style="flex:2;min-width:250px;">
@@ -49,7 +49,7 @@
                     N'hésitez pas à me contacter pour tout renseignement ou devis et réserver une garde ou une promenade. Je vous souhaite une excellente visite.</p>
             </div>
             <div>
-                <img class="img-rounded" src="img/presentation.jpg" alt="...">
+                <img class="img-rounded" src="img/presentation.jpg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
             </div>
         </div>
 
