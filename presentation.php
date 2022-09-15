@@ -2,11 +2,29 @@
 <html lang="fr">
 
 <head>
-<title>Gardiennage d'animaux, Pet sitter, Pet sitting pour Chien, Chat, Lapin à Nancy et Liverdun </title>
+    <title>Garde d'animaux, chien, chat, lapin à Nancy</title>
+    <meta name="Content-Type" content="UTF-8">
+    <meta name="Content-Language" content="fr">
+    <meta name="Description" content="Garde d'animaux, pet-sitter, pet-sitting à Nancy, Liverdun et alentours">
+    <meta name="Keywords" content="Garde d'animaux, pet-sitter, pet-sitting à Nancy, Liverdun et alentours">
+    <meta name="Subject" content="Garde d'animaux">
+    <meta name="Copyright" content="Celine Levrechon">
+    <meta name="Author" content="Celine Levrechon">
+    <meta name="Publisher" content="Celine Levrechon">
+    <meta name="Geography" content="Nancy, France,54000">
+    <meta name="Category" content="animals">
+    <meta name="DC.Content-Type" content="UTF-8">
+    <meta name="DC.Content-Language" content="fr">
+    <meta name="DC.Description" content="Garde d'animaux, pet-sitter, pet-sitting à Nancy, Liverdun et alentours">
+    <meta name="DC.Keywords" content="Garde d'animaux, pet-sitter, pet-sitting à Nancy, Liverdun et alentours">
+    <meta name="DC.Subject" content="Garde d'animaux">
+    <meta name="DC.Copyright" content="Celine Levrechon">
+    <meta name="DC.Author" content="Celine Levrechon">
+    <meta name="DC.Publisher" content="Celine Levrechon">
+    <meta name="DC.Geography" content="Nancy, France,54000">
+    <meta name="DC.Category" content="animals">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Gardiennage d'animaux, pet-sitter, pet-sitting.">
-    <meta name="author" content="Tommy Jeanbille, Celine Levrechon">
     <link href="css/style.css" rel="stylesheet">
     <!-- Librairie JQuery pour requete AJAX
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>-->
