@@ -2,27 +2,24 @@
 <html lang="fr">
 
 <head>
-    <title>Garde d'animaux, chien, chat, lapin à Nancy</title>
-    <meta name="Content-Type" content="UTF-8">
+    <title>Accueil - Pet Sitting à Nancy</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="Content-Language" content="fr">
-    <meta name="Description" content="Garde d'animaux, pet-sitter, pet-sitting à Nancy, Liverdun et alentours">
-    <meta name="Keywords" content="Garde d'animaux, pet-sitter, pet-sitting à Nancy, Liverdun et alentours">
-    <meta name="Subject" content="Garde d'animaux">
+    <meta name="Description" content="Garde Pet sitting à Nancy">
+    <meta name="Keywords" content="Garde Pet sitting à Nancy">
+    <meta name="Subject" content="Pet sitting">
     <meta name="Copyright" content="Celine Levrechon">
     <meta name="Author" content="Celine Levrechon">
     <meta name="Publisher" content="Celine Levrechon">
     <meta name="Geography" content="Nancy, France,54000">
     <meta name="Category" content="animals">
-    <meta name="DC.Content-Type" content="UTF-8">
-    <meta name="DC.Content-Language" content="fr">
-    <meta name="DC.Description" content="Garde d'animaux, pet-sitter, pet-sitting à Nancy, Liverdun et alentours">
-    <meta name="DC.Keywords" content="Garde d'animaux, pet-sitter, pet-sitting à Nancy, Liverdun et alentours">
-    <meta name="DC.Subject" content="Garde d'animaux">
-    <meta name="DC.Copyright" content="Celine Levrechon">
-    <meta name="DC.Author" content="Celine Levrechon">
-    <meta name="DC.Publisher" content="Celine Levrechon">
-    <meta name="DC.Geography" content="Nancy, France,54000">
-    <meta name="DC.Category" content="animals">
+
+    <meta property="og:title" content="Accueil - Pet Sitting à Nancy">
+    <meta property="og:type" content="website">
+    <meta property="og:updated_time" content="2022-10-01 10:21:17">
+    <meta property="og:url" content="https://pomponsetcoussinets.fr/">
+    <meta name="robots" content="follow,index">
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -55,20 +52,20 @@
             <div class="grand-titre-right"></div>-->
         </div>
 
-        <img class="img-decoration-dog1" src="img/dog1.svg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
-        <img class="img-decoration-cat2"  src="img/Gat3.svg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
+        <img class="img-decoration-dog1" src="img/dog1.svg" alt="Garde chien et chat à Nancy">
+        <img class="img-decoration-cat2"  src="img/Gat3.svg" alt="Pet sitting à Nancy">
 
         <div class="gp-accueil-section">
             <div style="flex:2;min-width:250px;">
-                <p class="text-colorization text_bold p-increased">Bienvenue sur Pompons et Coussinets, votre service de gardiennage d’animaux sur Liverdun et ses environs ! </p>
+                <p class="text-colorization text_bold p-increased">Bienvenue sur Pompons et Coussinets, votre service de garde d’animaux sur Liverdun et ses environs ! </p>
                 <p> Des vacances, une absence imprévue, une surcharge de travail ? </p>
                 <p> Je garderai vos chats, chiens, lapins et autres rongeurs, oiseaux et poissons à votre domicile. 
-                    J’assurerai également les promenades de vos toutous. </p>
+                    J’assurerai également les promenades de vos toutous (<a class="text-colorization" href='services.php' title="Services - Pet sitting à Nancy">voir mes services</a>) </p>
                 <p> Vous trouverez sur ce site des informations pour mieux me connaître et ainsi me laisser la garde de votre compagnon en toute confiance. 
                     N'hésitez pas à me contacter pour tout renseignement ou devis et réserver une garde ou une promenade. Je vous souhaite une excellente visite.</p>
             </div>
             <div>
-                <img class="img-rounded" src="img/presentation.jpg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
+                <img class="img-rounded" src="img/presentation.jpg" alt="Cat sitter à Nancy">
             </div>
         </div>
 

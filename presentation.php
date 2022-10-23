@@ -2,27 +2,24 @@
 <html lang="fr">
 
 <head>
-    <title>Garde d'animaux, chien, chat, lapin à Nancy</title>
-    <meta name="Content-Type" content="UTF-8">
+    <title>Presentation - Pet Sitting à Nancy</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="Content-Language" content="fr">
-    <meta name="Description" content="Garde d'animaux, pet-sitter, pet-sitting à Nancy, Liverdun et alentours">
-    <meta name="Keywords" content="Garde d'animaux, pet-sitter, pet-sitting à Nancy, Liverdun et alentours">
-    <meta name="Subject" content="Garde d'animaux">
+    <meta name="Description" content="Garde Pet sitting à Nancy">
+    <meta name="Keywords" content="Garde Pet sitting à Nancy">
+    <meta name="Subject" content="Pet sitting">
     <meta name="Copyright" content="Celine Levrechon">
     <meta name="Author" content="Celine Levrechon">
     <meta name="Publisher" content="Celine Levrechon">
     <meta name="Geography" content="Nancy, France,54000">
     <meta name="Category" content="animals">
-    <meta name="DC.Content-Type" content="UTF-8">
-    <meta name="DC.Content-Language" content="fr">
-    <meta name="DC.Description" content="Garde d'animaux, pet-sitter, pet-sitting à Nancy, Liverdun et alentours">
-    <meta name="DC.Keywords" content="Garde d'animaux, pet-sitter, pet-sitting à Nancy, Liverdun et alentours">
-    <meta name="DC.Subject" content="Garde d'animaux">
-    <meta name="DC.Copyright" content="Celine Levrechon">
-    <meta name="DC.Author" content="Celine Levrechon">
-    <meta name="DC.Publisher" content="Celine Levrechon">
-    <meta name="DC.Geography" content="Nancy, France,54000">
-    <meta name="DC.Category" content="animals">
+
+    <meta property="og:title" content="Presentation - Pet Sitting à Nancy">
+    <meta property="og:type" content="website">
+    <meta property="og:updated_time" content="2022-10-01 10:21:17">
+    <meta property="og:url" content="https://pomponsetcoussinets.fr/presentation.php">
+    <meta name="robots" content="follow,index">
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="css/style.css" rel="stylesheet">
@@ -52,8 +49,8 @@
             <div class="grand-titre-right"></div>-->
         </div>
 
-        <img class="img-decoration-cat1" src="img/gat4.svg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
-        <img class="img-decoration-cat2"  src="img/Gat3.svg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
+        <img class="img-decoration-cat1" src="img/gat4.svg" alt="Garde chien et chat à Nancy">
+        <img class="img-decoration-cat2"  src="img/Gat3.svg" alt="Pet sitting à Nancy">
 
         <div class="gp-accueil-section">
             <div style="flex:2;min-width:250px;">
@@ -61,12 +58,12 @@
                 <p>J’ai grandi à la ferme entourée des vaches, poules, lapins et moutons, ainsi que des chiens, Rex puis Tom, des magnifiques beaucerons. </p>
                 <p>J’ai eu mon premier chat à l’âge de 8 ans. Aujourd’hui c’est Plume qui partage ma vie depuis quelques années, accompagnée de sa grande sœur Grisouille, le lapin nain.</p>
                 <p>Après plusieurs années à avoir exercé dans l’administratif, j’ai senti que j’étais arrivée à un tournant de ma vie et que je devais tout mettre en œuvre pour vivre de ma passion : m’occuper des animaux.</p> 
-                <p>C’est pourquoi je me suis lancée dans ce beau projet de gardiennage et de promenade de nos fidèles compagnons. </p>
+                <p>C’est pourquoi je me suis lancée dans ce beau projet de garde et de promenade de nos fidèles compagnons. </p>
                 <p>Je m’occuperai d’eux avec le plus grand soin,  <span class="text-colorization text_bold"> comme s’ils étaient mes propres animaux.</span></p>
 
             </div>
             <div>
-                <img src="img/presentation1.jpg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
+                <img src="img/presentation_garde_animaux_chat_chien_nancy.jpg" alt="Cat sitter à Nancy">
             </div>
         </div>
 
@@ -77,18 +74,18 @@
         </div>
         <div class="gp-choix-section">
             <div>
-                <img src="img/garde-animaux.jpg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
+                <img src="img/pet_sitter_garde_animaux_chat_chien_nancy.jpg" alt="Dog sitter à Nancy">
             </div>
 
             <div style="flex:3;min-width:250px;">
-            <p>A la différence d’un particulier qui garderait votre animal, <span class="text-colorization text_bold">je suis titulaire de l’ACACED Chiens, Chats et NAC (Attestation de Connaissances pour les Animaux de Compagnie d’Espèces Domestiques)</span>, obligatoire pour exercer des activités auprès des animaux domestiques. </p>
-            <p>Je possède donc les connaissances de base sur leur alimentation, leur santé et leur comportement général.</p><br/>
-            <p>J’ai également suivi des cours de  <span class="text-colorization text_bold">premiers secours canins et félins</span> grâce au site Premiers secours animaliers.</p>
-            <p>Je suis aussi couverte par une  <span class="text-colorization text_bold">responsabilité civile professionnelle</span>, élément qu’un particulier ne possède pas.</p> <br/>
-            <p>En effet, lorsque je m’occupe d’un animal que ce soit un chien, un chat ou un furet, il est sous  <span class="text-colorization text_bold">ma responsabilité.</span></p> 
-            <p>En tant que propriétaire, vous me transférez sa responsabilité le temps de la garde. </p>
-            <p>C’est donc un point essentiel pour une garde ou une promenade sereine, autant pour vous que pour moi.</p><br/>
-            <p>Enfin, du point de vue financier, les sites qui vous mettent en relation avec des particuliers prennent une commission conséquente sur les tarifs annoncés. C'est pourquoi faire appel à un pet sitter professionnel  <span class="text-colorization text_bold">ne vous coûtera pas forcément plus cher.</span> </p>
+            <p>A la différence d’un particulier qui garderait votre animal, <span class="text-colorization text_bold">je suis titulaire de l’ACACED Chiens, Chats et NAC </span>(Attestation de Connaissances pour les Animaux de Compagnie d’Espèces Domestiques), obligatoire pour exercer des activités auprès des animaux domestiques. 
+            Je possède donc les connaissances de base sur leur alimentation, leur santé et leur comportement général.</p>
+            <p>J’ai également suivi des cours de  <span class="text-colorization text_bold">premiers secours canins et félins</span> grâce au site Premiers secours animaliers.
+               Je suis aussi couverte par une  <span class="text-colorization text_bold">responsabilité civile professionnelle</span>, élément qu’un particulier ne possède pas.</p> 
+            <p>En effet, lorsque je m’occupe d’un animal que ce soit un chien, un chat ou un furet, il est sous  <span class="text-colorization text_bold">ma responsabilité.</span>
+               En tant que propriétaire, vous me transférez sa responsabilité le temps de la garde. 
+               C’est donc un point essentiel pour une garde ou une promenade sereine, autant pour vous que pour moi.</p>
+            <p>Enfin, du point de vue financier, les sites qui vous mettent en relation avec des particuliers prennent une commission conséquente sur les tarifs annoncés (<a class="text-colorization" href='services.php' title="Services - Pet sitting à Nancy">voir mes tarifs</a>). C'est pourquoi faire appel à un pet sitter professionnel  <span class="text-colorization text_bold">ne vous coûtera pas forcément plus cher.</span> </p>
             </div>
 
         </div>

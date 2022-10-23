@@ -2,27 +2,24 @@
 <html lang="fr">
 
 <head>
-    <title>Garde d'animaux, chien, chat, lapin à Nancy</title>
-    <meta name="Content-Type" content="UTF-8">
+    <title>Services - Pet Sitting à Nancy</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="Content-Language" content="fr">
-    <meta name="Description" content="Garde d'animaux, pet-sitter, pet-sitting à Nancy, Liverdun et alentours">
-    <meta name="Keywords" content="Garde d'animaux, pet-sitter, pet-sitting à Nancy, Liverdun et alentours">
-    <meta name="Subject" content="Garde d'animaux">
+    <meta name="Description" content="Garde Pet sitting à Nancy">
+    <meta name="Keywords" content="Garde Pet sitting à Nancy">
+    <meta name="Subject" content="Pet sitting">
     <meta name="Copyright" content="Celine Levrechon">
     <meta name="Author" content="Celine Levrechon">
     <meta name="Publisher" content="Celine Levrechon">
     <meta name="Geography" content="Nancy, France,54000">
     <meta name="Category" content="animals">
-    <meta name="DC.Content-Type" content="UTF-8">
-    <meta name="DC.Content-Language" content="fr">
-    <meta name="DC.Description" content="Garde d'animaux, pet-sitter, pet-sitting à Nancy, Liverdun et alentours">
-    <meta name="DC.Keywords" content="Garde d'animaux, pet-sitter, pet-sitting à Nancy, Liverdun et alentours">
-    <meta name="DC.Subject" content="Garde d'animaux">
-    <meta name="DC.Copyright" content="Celine Levrechon">
-    <meta name="DC.Author" content="Celine Levrechon">
-    <meta name="DC.Publisher" content="Celine Levrechon">
-    <meta name="DC.Geography" content="Nancy, France,54000">
-    <meta name="DC.Category" content="animals">
+
+    <meta property="og:title" content="Services - Pet Sitting à Nancy">
+    <meta property="og:type" content="website">
+    <meta property="og:updated_time" content="2022-10-01 10:21:17">
+    <meta property="og:url" content="https://pomponsetcoussinets.fr/services.php">
+    <meta name="robots" content="follow,index">
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="css/style.css" rel="stylesheet">
@@ -51,9 +48,9 @@
             <!--<div class="grand-titre-left"></div>
             <div class="grand-titre-right"></div>-->
         </div>
-        <img class="img-decoration-cat3" src="img/Cat5.svg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
+        <img class="img-decoration-cat3" src="img/Cat5.svg" alt="Promenade chien à Nancy">
 
-        <img class="img-decoration-rabbit1" src="img/rabbit.svg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
+        <img class="img-decoration-rabbit1" src="img/rabbit.svg" alt="Pet sitting à Nancy">
 
         <p><span class="p-increased text-colorization">Pré-visite obligatoire*</span> : visite du lieu de vie de l’animal, rencontre avec l’animal, consignes spécifiques pour la garde ou la promenade, remise des clés : 6€</p>
         <p>*pour les promenades chiens, non-obligatoire si le maître est présent.</p>
@@ -140,9 +137,9 @@
         <div style="">
             <p><i class="fas fa-house-user fa-lg" style="padding-right:10px;"></i> Relevé du courrier, aération du logement et arrosage des plantes : gratuit sur demande</p>
             <p><i class="fas fa-calendar-alt fa-lg" style="padding-right:10px;"></i> Majoration jour férié : +5€</p>
-            <p><i class="fas fa-money-check fa-lg" style="padding-right:10px;"></i> Moyens de paiement acceptés : Chèques, Espèces</p>
+            <p><i class="fas fa-money-check fa-lg" style="padding-right:10px;"></i> Moyens de paiement acceptés : Chèque, Espèces, Virement</p>
             <p><i class="fas fa-paw fa-lg" style="padding-right:10px;"></i> Si plusieurs animaux : Pas de supplément pour 2 animaux dans le même foyer. Pour plus de 2 animaux, me contacter pour devis</p>
-            <p><i class="fas fa-car fa-lg" style="padding-right:10px;"></i> Frais kilométriques : Pas de frais pour <a class="text-colorization" href='contact.php'>les communes dans ma zone d’activité</a>. Pour les autres communes au-delà, frais kilométriques en plus.</p>
+            <p><i class="fas fa-car fa-lg" style="padding-right:10px;"></i> Frais kilométriques : Pas de frais pour <a class="text-colorization" href='contact.php' title="Contact - Pet sitting à Nancy">les communes dans ma zone d’activité</a>. Pour les autres communes au-delà, frais kilométriques en plus.</p>
             <br/>
         </div>
     </div>

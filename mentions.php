@@ -2,29 +2,26 @@
 <html lang="fr">
 
 <head>
-    <title>Garde d'animaux, chien, chat, lapin à Nancy</title>
-    <meta name="Content-Type" content="UTF-8">
+    <title>Mentions - Pet Sitting à Nancy</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="Content-Language" content="fr">
-    <meta name="Description" content="Garde d'animaux, pet-sitter, pet-sitting à Nancy, Liverdun et alentours">
-    <meta name="Keywords" content="Garde d'animaux, pet-sitter, pet-sitting à Nancy, Liverdun et alentours">
-    <meta name="Subject" content="Garde d'animaux">
+    <meta name="Description" content="Garde Pet sitting à Nancy">
+    <meta name="Keywords" content="Garde Pet sitting à Nancy">
+    <meta name="Subject" content="Pet sitting">
     <meta name="Copyright" content="Celine Levrechon">
     <meta name="Author" content="Celine Levrechon">
     <meta name="Publisher" content="Celine Levrechon">
     <meta name="Geography" content="Nancy, France,54000">
     <meta name="Category" content="animals">
-    <meta name="DC.Content-Type" content="UTF-8">
-    <meta name="DC.Content-Language" content="fr">
-    <meta name="DC.Description" content="Garde d'animaux, pet-sitter, pet-sitting à Nancy, Liverdun et alentours">
-    <meta name="DC.Keywords" content="Garde d'animaux, pet-sitter, pet-sitting à Nancy, Liverdun et alentours">
-    <meta name="DC.Subject" content="Garde d'animaux">
-    <meta name="DC.Copyright" content="Celine Levrechon">
-    <meta name="DC.Author" content="Celine Levrechon">
-    <meta name="DC.Publisher" content="Celine Levrechon">
-    <meta name="DC.Geography" content="Nancy, France,54000">
-    <meta name="DC.Category" content="animals">
+
+    <meta property="og:title" content="Mentions -  Pet Sitting à Nancy">
+    <meta property="og:type" content="website">
+    <meta property="og:updated_time" content="2022-10-01 10:21:17">
+    <meta property="og:url" content="https://pomponsetcoussinets.fr/mentions.php">
+    <meta name="robots" content="follow,index">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <link href="css/style.css" rel="stylesheet">
     <!-- Librairie JQuery pour requete AJAX
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>-->
@@ -52,8 +49,8 @@
             <div class="grand-titre-right"></div>-->
         </div>
 
-        <img class="img-decoration-dog1" src="img/dog1.svg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
-        <img class="img-decoration-cat2"  src="img/Gat3.svg" alt="Gardiennage d'animaux, Pet sitter, Pet sitting, Nancy, Liverdun">
+        <img class="img-decoration-dog1" src="img/dog1.svg" alt="Pet sitting à Nancy">
+        <img class="img-decoration-cat2"  src="img/Gat3.svg" alt="Garde animaux à Nancy">
 
 
 <p class="text-colorization p-increased">1 – Édition du site</p>
